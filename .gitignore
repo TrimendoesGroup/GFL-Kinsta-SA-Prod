@@ -1,0 +1,20 @@
+# Keep these file out of repo
+*.log
+sitemap.xml
+sitemap.xml.gz
+*.sql
+/wp-content/upgrade
+/wp-content/uploads
+/wp-content/upgrade
+/wp-content/uploads
+/wp-content/cache/
+/wp-content/backups/
+/wp-content/advanced-cache.php
+/wp-content/wp-cache-config.php
+/wp-content/debug.log
+
+.htaccess
+
+* Do not ignore
+!wp-content/themes/
+!wp-content/plugins/
